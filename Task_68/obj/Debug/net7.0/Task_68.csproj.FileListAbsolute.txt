@@ -1,0 +1,15 @@
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\9_practic\Task_68\obj\Debug\net7.0\Task_68.csproj.AssemblyReference.cache
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\9_practic\Task_68\obj\Debug\net7.0\Task_68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\9_practic\Task_68\obj\Debug\net7.0\Task_68.AssemblyInfoInputs.cache
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\9_practic\Task_68\obj\Debug\net7.0\Task_68.AssemblyInfo.cs
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\9_practic\Task_68\obj\Debug\net7.0\Task_68.csproj.CoreCompileInputs.cache
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\9_practic\Task_68\bin\Debug\net7.0\Task_68.exe
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\9_practic\Task_68\bin\Debug\net7.0\Task_68.deps.json
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\9_practic\Task_68\bin\Debug\net7.0\Task_68.runtimeconfig.json
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\9_practic\Task_68\bin\Debug\net7.0\Task_68.dll
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\9_practic\Task_68\bin\Debug\net7.0\Task_68.pdb
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\9_practic\Task_68\obj\Debug\net7.0\Task_68.dll
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\9_practic\Task_68\obj\Debug\net7.0\refint\Task_68.dll
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\9_practic\Task_68\obj\Debug\net7.0\Task_68.pdb
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\9_practic\Task_68\obj\Debug\net7.0\Task_68.genruntimeconfig.cache
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\9_practic\Task_68\obj\Debug\net7.0\ref\Task_68.dll
